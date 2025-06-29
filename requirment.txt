@@ -1,1 +1,1 @@
-pip install requests beautifulsoup4 pandas transformers torch spacy matplotlib
+requests beautifulsoup4 pandas transformers torch spacy matplotlib
